@@ -9,6 +9,7 @@ import {LoginAdminComponent} from 'src/app/module/admin/login-admin/login-admin.
 import {RegisterAdminComponent} from 'src/app/module/admin/register-admin/register-admin.component';
 import {ChangePasswordAdminComponent} from 'src/app/module/admin/change-password-admin/change-password-admin.component';
 
+// add commentaire
 @NgModule({
     imports: [
         RouterModule.forRoot(
