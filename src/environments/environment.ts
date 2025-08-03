@@ -12,14 +12,14 @@ export const environment = {
   falseValue: 'Faux',
   emptyForExport: '-----',
 
-  apiUrlOrdermanagementms1: 'http://localhost:8036/api/',
-  loginUrl: 'http://localhost:8036/',
-  registerUrl: 'http://localhost:8036/register',
-  apiUrl: 'http://localhost:8036/',
+  apiUrlOrdermanagementms1: 'https://zynerator-deploy.up.railway.app/api/',
+  loginUrl: 'https://zynerator-deploy.up.railway.app/',
+  registerUrl: 'https://zynerator-deploy.up.railway.app/register',
+  apiUrl: 'https://zynerator-deploy.up.railway.app/',
 
-  uploadMultipleUrl: 'http://localhost:8036/api/cloud/upload-multiple/bucket/ana',
+  uploadMultipleUrl: 'https://zynerator-deploy.up.railway.app/api/cloud/upload-multiple/bucket/ana',
 
-  stripeUrl: "http://localhost:8036/api/payment/create-payment-intent/",
+  stripeUrl: "https://zynerator-deploy.up.railway.app/api/payment/create-payment-intent/",
   stripePublicKey: "pk_test_51PVbvFRxVNBDrAcwfSz21b6EtPSpl6Fw3gUoKpIGWZN5whhSfS67W4hbtk95OMF1JSpxgYPyp9AmkNOAPLNFR7St00tDXFRjuV",
 
 
