@@ -10,13 +10,13 @@ export const environment = {
 
 
 
-  apiUrlOrdermanagementms1: 'https://localhost:8036/api/',
-  loginUrl: 'https://localhost:8036/',
-  registerUrl: 'https://localhost:8036/register',
-  apiUrl: 'https://localhost:8036/',
+  apiUrlOrdermanagementms1: 'https://zynerator-deploy.up.railway.app/api/',
+  loginUrl: 'https://zynerator-deploy.up.railway.app/',
+  registerUrl: 'https://zynerator-deploy.up.railway.app/register',
+  apiUrl: 'https://zynerator-deploy.up.railway.app/',
 
 
-  stripeUrl: "https://localhost:8036/api/payment/create-payment-intent/",
+  stripeUrl: "https://zynerator-deploy.up.railway.app/api/payment/create-payment-intent/",
   stripePublicKey: "pk_test_51PVbvFRxVNBDrAcwfSz21b6EtPSpl6Fw3gUoKpIGWZN5whhSfS67W4hbtk95OMF1JSpxgYPyp9AmkNOAPLNFR7St00tDXFRjuV",
 
 
